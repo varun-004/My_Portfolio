@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&family=Paprika&display=swap');
+
+
+#navFont{
+    font-family: "Paprika", system-ui;
+    font-size:larger;
+}
+#logoFont{
+    font-family: "Paprika", system-ui;
+    font-size:200%;
+}
+#threeLine{
+    font-family: "Paprika", system-ui;
+}
+#social_media{
+  font-size: 30px;
+
+}
+
+/* .animate {
+    display: inline-block;
+    animation: fadeIn 3s ease-in-out  infinite;
+    
+  }
+
+  @keyframes fadeIn {
+    0% {
+      transform:rotateY(180deg);
+    }
+    100% {
+      transform:rotateX(0deg);
+    }
+  } */
+
+
+
+
+
+
+
+
